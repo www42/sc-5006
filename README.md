@@ -20,7 +20,6 @@
 <br>
 -->
 
-
 ## Learning Path
 
 Lerning Path [Enhance security operations by using Microsoft Security Copilot][LP]
